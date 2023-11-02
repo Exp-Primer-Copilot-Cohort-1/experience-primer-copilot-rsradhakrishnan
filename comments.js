@@ -1,4 +1,4 @@
-// create a web server
+// Create web server
 // 1. create a server
 // 2. register request event
 // 3. bind port number, start server
